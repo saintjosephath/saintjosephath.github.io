@@ -1,0 +1,69 @@
+* {
+  border-radius: 0 !important;
+}
+
+body {
+  font-family: 'Droid Sans' !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Ubuntu' !important;
+  color: #3C99DC !important;
+}
+
+h1:first-letter, h2:first-letter, h3:first-letter,
+h4:first-letter, h5:first-letter, h6:first-letter,
+.h1:first-letter, .h2:first-letter, .h3:first-letter,
+.h4:first-letter, .h5:first-letter, .h6:first-letter {
+  text-transform: capitalize !important;
+}
+
+p {
+  text-align: justify;
+  margin-bottom: 12px;
+}
+
+#page-header{
+  background-image: url('/images/blason.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#page-header>div {
+  background-color: rgba(255, 255, 255, 0.45);
+}
+
+.story+.story{
+  border-left: 1px solid #3C99DC !important;
+}
+
+.container {
+  max-width: 1140px!important;
+}
+
+.btn-tag, .btn-outline-tag:hover {
+  background-color: #ebb951 !important;
+  color: #ffffff !important;
+}
+
+.btn-outline-tag, .icon-file {
+  border-color: #ebb951 !important;
+  color: #ebb951;
+}
+
+.btn-outline-prime {
+  color: #3C99DC !important;
+  border-color: #3C99DC !important;
+}
+
+.btn-outline-prime:hover {
+  background-color: #3C99DC !important;
+  color: #ffffff !important;
+}
+
+nav.navbar .navbar-nav>li.nav-item.active > a.nav-link,
+nav.navbar .navbar-nav>li.nav-item > a.nav-link:hover {
+  color: #3C99DC !important;
+  font-weight: 500;
+}
