@@ -2,53 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://saintjosephath.github.io/infos/general/</loc>
-    <lastmod>2021-04-25T10:55:38+02:00</lastmod>
+    <loc>https://saintjosephath.github.io/infos/horaires/</loc>
+    <lastmod>2021-05-08T17:08:11+02:00</lastmod>
   </url><url>
     <loc>https://saintjosephath.github.io/%C3%A9cole/histoire/</loc>
-    <lastmod>2021-04-25T11:07:09+02:00</lastmod>
+    <lastmod>2021-05-08T16:57:55+02:00</lastmod>
   </url><url>
     <loc>https://saintjosephath.github.io/%C3%A9cole/</loc>
     <lastmod>2021-04-25T10:55:32+02:00</lastmod>
   </url><url>
-    <loc>https://saintjosephath.github.io/infos/po/</loc>
-    <lastmod>2021-04-25T12:55:23+02:00</lastmod>
-  </url><url>
-    <loc>https://saintjosephath.github.io/infos/ca/</loc>
-    <lastmod>2021-04-25T13:01:50+02:00</lastmod>
-  </url><url>
-    <loc>https://saintjosephath.github.io/infos/direction/</loc>
-    <lastmod>2021-04-25T13:03:10+02:00</lastmod>
+    <loc>https://saintjosephath.github.io/infos/organigramme/</loc>
+    <lastmod>2021-05-08T17:08:20+02:00</lastmod>
   </url><url>
     <loc>https://saintjosephath.github.io/infos/</loc>
     <lastmod>2021-04-25T10:55:38+02:00</lastmod>
   </url><url>
-    <loc>https://saintjosephath.github.io/infos/ap/</loc>
-    <lastmod>2021-04-25T13:17:26+02:00</lastmod>
+    <loc>https://saintjosephath.github.io/infos/repas/</loc>
+    <lastmod>2021-05-08T17:08:28+02:00</lastmod>
+  </url><url>
+    <loc>https://saintjosephath.github.io/infos/inscription/</loc>
+    <lastmod>2021-05-08T17:08:48+02:00</lastmod>
+  </url><url>
+    <loc>https://saintjosephath.github.io/infos/materiel/</loc>
+    <lastmod>2021-05-08T17:08:56+02:00</lastmod>
   </url><url>
     <loc>https://saintjosephath.github.io/%C3%A9cole/institut/</loc>
-    <lastmod>2021-04-25T11:21:40+02:00</lastmod>
-  </url><url>
-    <loc>https://saintjosephath.github.io/%C3%A9cole/implementations/</loc>
-    <lastmod>2021-04-25T11:21:40+02:00</lastmod>
+    <lastmod>2021-05-08T16:58:08+02:00</lastmod>
   </url><url>
     <loc>https://saintjosephath.github.io/projets/</loc>
-    <lastmod>2021-04-25T10:55:46+02:00</lastmod>
+    <lastmod>2021-04-25T10:55:32+02:00</lastmod>
+  </url><url>
+    <loc>https://saintjosephath.github.io/infos/documents/</loc>
+    <lastmod>2021-05-08T17:09:02+02:00</lastmod>
+  </url><url>
+    <loc>https://saintjosephath.github.io/infos/contacts/</loc>
+    <lastmod>2021-05-08T17:09:09+02:00</lastmod>
   </url><url>
     <loc>https://saintjosephath.github.io/actualit%C3%A9s/</loc>
     <lastmod>2021-04-25T10:55:50+02:00</lastmod>
   </url><url>
-    <loc>https://saintjosephath.github.io/%C3%A9cole/equipe/</loc>
-    <lastmod>2021-04-25T11:21:40+02:00</lastmod>
+    <loc>https://saintjosephath.github.io/%C3%A9cole/%C3%A9quipe/</loc>
+    <lastmod>2021-05-08T16:58:18+02:00</lastmod>
   </url><url>
-    <loc>https://saintjosephath.github.io/infos/pse/</loc>
-    <lastmod>2021-04-25T13:22:52+02:00</lastmod>
+    <loc>https://saintjosephath.github.io/projets/r%C3%A8glement/</loc>
+    <lastmod>2021-05-08T16:55:33+02:00</lastmod>
   </url><url>
-    <loc>https://saintjosephath.github.io/infos/pms/</loc>
-    <lastmod>2021-04-25T13:20:08+02:00</lastmod>
+    <loc>https://saintjosephath.github.io/projets/%C3%A9cole/</loc>
+    <lastmod>2021-05-08T16:55:23+02:00</lastmod>
   </url><url>
-    <loc>https://saintjosephath.github.io/infos/comit%C3%A9s/</loc>
-    <lastmod>2021-04-25T13:05:29+02:00</lastmod>
+    <loc>https://saintjosephath.github.io/projets/p%C3%A9dagogie/</loc>
+    <lastmod>2021-05-08T16:55:11+02:00</lastmod>
   </url><url>
     <loc>https://saintjosephath.github.io/</loc>
     <lastmod>2021-03-23T17:16:37+01:00</lastmod>
@@ -71,10 +74,10 @@
     <loc>https://saintjosephath.github.io/tags/r%C3%A8glements/</loc>
     <lastmod>2020-11-16T19:00:19+01:00</lastmod>
   </url><url>
-    <loc>https://saintjosephath.github.io/actualit%C3%A9s/documents/</loc>
+    <loc>https://saintjosephath.github.io/tags/documents/</loc>
     <lastmod>2020-10-22T19:02:49+01:00</lastmod>
   </url><url>
-    <loc>https://saintjosephath.github.io/tags/documents/</loc>
+    <loc>https://saintjosephath.github.io/actualit%C3%A9s/documents/</loc>
     <lastmod>2020-10-22T19:02:49+01:00</lastmod>
   </url><url>
     <loc>https://saintjosephath.github.io/actualit%C3%A9s/circulaire_7780/</loc>
