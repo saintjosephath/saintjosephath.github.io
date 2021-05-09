@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Institut Saint-Joseph Ath</title>
     <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
     <link rel="stylesheet" href="https://saintjosephath.github.io/css/base.css"/>
   </head>
   <body style="padding-top:56px">
@@ -13,17 +13,101 @@
   <div class="container">
     <a class="navbar-brand" href="https://saintjosephath.github.io/">Institut Saint-Joseph Ath</a>
     <div class="collapse navbar-collapse">
-      <div class="navbar-nav ms-auto">
+      <ul class="navbar-nav ms-auto">
         
-          <a href="https://saintjosephath.github.io/%C3%A9cole/" class="nav-link">Notre école</a>
+        <li class="nav-item dropdown">
+          <a href="https://saintjosephath.github.io/%C3%A9cole/" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <span>Notre école</span>
+          </a>
+          
+          <ul class="dropdown-menu">
+            
+            <li>
+              <a href="https://saintjosephath.github.io/%C3%A9cole/histoire/" class="dropdown-item">Notre Histoire</a>
+            </li>
+            
+            <li>
+              <a href="https://saintjosephath.github.io/%C3%A9cole/institut/" class="dropdown-item">Notre école</a>
+            </li>
+            
+            <li>
+              <a href="https://saintjosephath.github.io/%C3%A9cole/%C3%A9quipe/" class="dropdown-item">Notre équipe pédagogique</a>
+            </li>
+            
+          </ul>
+          
+        </li>
         
-          <a href="https://saintjosephath.github.io/infos/" class="nav-link">Infos utiles</a>
+        <li class="nav-item dropdown">
+          <a href="https://saintjosephath.github.io/infos/" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <span>Infos utiles</span>
+          </a>
+          
+          <ul class="dropdown-menu">
+            
+            <li>
+              <a href="https://saintjosephath.github.io/infos/horaires/" class="dropdown-item">Nos horaires</a>
+            </li>
+            
+            <li>
+              <a href="https://saintjosephath.github.io/infos/organigramme/" class="dropdown-item">Notre organigramme</a>
+            </li>
+            
+            <li>
+              <a href="https://saintjosephath.github.io/infos/repas/" class="dropdown-item">Nos repas chaud - Menu du Mois</a>
+            </li>
+            
+            <li>
+              <a href="https://saintjosephath.github.io/infos/inscription/" class="dropdown-item">Comment s&#39;inscrire?</a>
+            </li>
+            
+            <li>
+              <a href="https://saintjosephath.github.io/infos/materiel/" class="dropdown-item">Nos listes de Matériel scolaire</a>
+            </li>
+            
+            <li>
+              <a href="https://saintjosephath.github.io/infos/documents/" class="dropdown-item">Nos documents administratifs</a>
+            </li>
+            
+            <li>
+              <a href="https://saintjosephath.github.io/infos/contacts/" class="dropdown-item">Nous contacter</a>
+            </li>
+            
+          </ul>
+          
+        </li>
         
-          <a href="https://saintjosephath.github.io/projets/" class="nav-link">Nos projets</a>
+        <li class="nav-item dropdown">
+          <a href="https://saintjosephath.github.io/projets/" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <span>Nos projets</span>
+          </a>
+          
+          <ul class="dropdown-menu">
+            
+            <li>
+              <a href="https://saintjosephath.github.io/projets/r%C3%A8glement/" class="dropdown-item">Règlement d&#39;ordre intérieur</a>
+            </li>
+            
+            <li>
+              <a href="https://saintjosephath.github.io/projets/%C3%A9cole/" class="dropdown-item">Projet d&#39;école</a>
+            </li>
+            
+            <li>
+              <a href="https://saintjosephath.github.io/projets/p%C3%A9dagogie/" class="dropdown-item">Projet éducatif et pédagogique</a>
+            </li>
+            
+          </ul>
+          
+        </li>
         
-          <a href="https://saintjosephath.github.io/actualit%C3%A9s/" class="nav-link">Notre actualité</a>
+        <li class="nav-item ">
+          <a href="https://saintjosephath.github.io/actualit%C3%A9s/" class="nav-link " >
+            <span>Notre actualité</span>
+          </a>
+          
+        </li>
         
-      </div>
+      </ul>
     </div>
   </div>
 </nav>
@@ -53,8 +137,16 @@
       
       <div id="page-body" class="row mt-5">
         
-          <div class="col-8" id="main-infos">
+          <div class="col-9" id="main-infos">
             
+  <nav style="--bs-breadcrumb-divider: '>';">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item active">
+        <a href="https://saintjosephath.github.io/%C3%A9cole/">Notre école</a>
+      </li>
+      <li class="breadcrumb-item active">Notre école</li>
+    </ol>
+  </nav>
   <header class="mb-5">
     <h1 class="h3">Notre école</h1>
   </header>
@@ -85,7 +177,7 @@ Il donne à tous les élèves un maximum de moyens pour entamer l’enseignement
   </div>
 
           </div>
-          <aside class="col-4" id="related-infos">
+          <aside class="col-3" id="related-infos">
             
 
   
@@ -93,15 +185,15 @@ Il donne à tous les élèves un maximum de moyens pour entamer l’enseignement
       <h1 class="w-50 h4 text-center mx-auto py-1 mb-3 border-top border-bottom">A lire</h1>
       <div class="list-group border-0">
         
-        <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/%C3%A9cole/#0f577b3336dc760b959a8efe29e8af0e">
+        <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/%C3%A9cole/histoire/">
           <span>Notre Histoire</span>
         </a>
         
-        <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/%C3%A9cole/#0cadb2c2713b1fd83d6312153feaebd5">
+        <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/%C3%A9cole/institut/">
           <span>Notre école</span>
         </a>
         
-        <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/%C3%A9cole/#31d79c4e77bff51497344375e5c164ef">
+        <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/%C3%A9cole/%C3%A9quipe/">
           <span>Notre équipe pédagogique</span>
         </a>
         
@@ -117,13 +209,13 @@ Il donne à tous les élèves un maximum de moyens pour entamer l’enseignement
   <h1 class="w-50 h4 text-center mx-auto py-1 mb-3 border-top border-bottom">A la une!</h1>
   <div class="list-group border-0">
     
-      <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/actualit%C3%A9s/">En cas d&#39;absence</a>
+      <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/actualit%C3%A9s/#e2d4a6193af879618359d50c2317a127">En cas d&#39;absence</a>
     
-      <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/actualit%C3%A9s/">N&#39;oubliez pas les règlements</a>
+      <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/actualit%C3%A9s/#9701d3de483abcc684d84f07ba8e8cc6">N&#39;oubliez pas les règlements</a>
     
-      <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/actualit%C3%A9s/">Quelques documents</a>
+      <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/actualit%C3%A9s/#8c2863bb982a4edbb382bf78f645ae18">Quelques documents</a>
     
-      <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/actualit%C3%A9s/">La circulaire 7780 expliquée</a>
+      <a class="list-group-item border-0 py-1" href="https://saintjosephath.github.io/actualit%C3%A9s/#6a2f0ef556815a1b280fd5cd08258356">La circulaire 7780 expliquée</a>
     
   </div>
 </section>
@@ -163,8 +255,9 @@ Il donne à tous les élèves un maximum de moyens pour entamer l’enseignement
     
     
     <p class="text-center text-muted mt-3">
-      <em>mise à jour le 08-05-2021</em>
+      <em>mise à jour le 09-05-2021</em>
     </p>
     </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>
   </body>
 </html>
