@@ -40,6 +40,12 @@ h4:first-letter, h5:first-letter, h6:first-letter,
   font-weight: bold !important;
 }
 
+#page-footer {
+  background-image: url('/images/geants.png');
+  background-size: cover;
+  background-position: center;
+}
+
 .btn-tag, .btn-outline-tag:hover {
   background-color: #ebb951 !important;
   color: #ffffff !important;
