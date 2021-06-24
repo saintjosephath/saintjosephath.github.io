@@ -65,3 +65,41 @@ h4:first-letter, h5:first-letter, h6:first-letter,
   background-color: #3C99DC !important;
   color: #ffffff !important;
 }
+
+#subscribe-intro>p {
+  text-align: center !important; 
+}
+
+.step-start, .step-end {
+  position: relative;
+  min-height: 220px;
+}
+
+.step-start {
+  right: 1.35px;
+}
+
+.step-end {
+  left: 1.35px;
+}
+
+.step-start-body {
+  padding-left: 70px !important;
+}
+
+.step-end-body {
+  padding-right: 70px !important;
+}
+
+.step-start>h1, .step-end>h1 {
+  border-radius: 50px !important;
+  padding: 10px 25px;
+}
+
+.step-start>h1{
+  left: -34px;
+}
+
+.step-end>h1{
+  right: -34px;
+}

@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://saintjosephath.github.io/infos/inscriptions/step1/</loc>
+    <lastmod>2021-06-24T10:46:16+02:00</lastmod>
+  </url><url>
     <loc>https://saintjosephath.github.io/infos/horaires/</loc>
     <lastmod>2021-05-08T17:08:11+02:00</lastmod>
   </url><url>
@@ -11,14 +14,23 @@
     <loc>https://saintjosephath.github.io/%C3%A9cole/</loc>
     <lastmod>2021-04-25T10:55:32+02:00</lastmod>
   </url><url>
+    <loc>https://saintjosephath.github.io/infos/inscriptions/step2/</loc>
+    <lastmod>2021-06-24T10:46:21+02:00</lastmod>
+  </url><url>
     <loc>https://saintjosephath.github.io/infos/organigramme/</loc>
     <lastmod>2021-05-08T17:08:20+02:00</lastmod>
   </url><url>
     <loc>https://saintjosephath.github.io/infos/</loc>
     <lastmod>2021-04-25T10:55:38+02:00</lastmod>
   </url><url>
+    <loc>https://saintjosephath.github.io/infos/inscriptions/step3/</loc>
+    <lastmod>2021-06-24T10:46:25+02:00</lastmod>
+  </url><url>
     <loc>https://saintjosephath.github.io/infos/repas/</loc>
     <lastmod>2021-05-08T17:08:28+02:00</lastmod>
+  </url><url>
+    <loc>https://saintjosephath.github.io/infos/inscriptions/step4/</loc>
+    <lastmod>2021-06-24T10:46:25+02:00</lastmod>
   </url><url>
     <loc>https://saintjosephath.github.io/infos/inscription/</loc>
     <lastmod>2021-05-08T17:08:48+02:00</lastmod>
@@ -43,6 +55,9 @@
   </url><url>
     <loc>https://saintjosephath.github.io/%C3%A9cole/%C3%A9quipe/</loc>
     <lastmod>2021-05-08T16:58:18+02:00</lastmod>
+  </url><url>
+    <loc>https://saintjosephath.github.io/infos/inscriptions/</loc>
+    <lastmod>2021-06-24T10:49:30+02:00</lastmod>
   </url><url>
     <loc>https://saintjosephath.github.io/projets/r%C3%A8glement/</loc>
     <lastmod>2021-05-08T16:55:33+02:00</lastmod>
