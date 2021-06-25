@@ -67,7 +67,7 @@ h4:first-letter, h5:first-letter, h6:first-letter,
 }
 
 #subscribe-intro>p {
-  text-align: center !important; 
+  text-align: center !important;
 }
 
 .step-start, .step-end {
@@ -97,9 +97,9 @@ h4:first-letter, h5:first-letter, h6:first-letter,
 }
 
 .step-start>h1{
-  left: -34px;
+  left: -37px;
 }
 
 .step-end>h1{
-  right: -34px;
+  right: -37px;
 }
